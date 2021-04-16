@@ -119,7 +119,7 @@ if mpcApproach2.feasible == 1:
 	plt.ylabel('$x_2$')
 	plt.legend()
 
-plt.savefig("p2-2-2.png")
+plt.savefig("p2-2-2")
 
 # # =======================================================================================
 # # ============== Compute the Region of Attraction =======================================
